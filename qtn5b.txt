@@ -1,0 +1,15 @@
+WHERE
+It is used to extract only those records that fulfill a specified condition.
+
+GROUP BY
+It causes the rows of the items table to be collected into groups
+
+Distinct
+It is used to eliminate duplicate rows and display a unique list of values.
+
+SELECT
+It specifies the columns from which data values are to be retrieved by the query.
+
+ORDER BY
+It specifies that a SQL SELECT statement returns a result set with the rows being sorted
+by the values of one or more columns.

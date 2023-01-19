@@ -1,0 +1,46 @@
+No:1;i
+A database is a collection of organised tables which helps to ease access,
+management and modification of data.
+
+No:1;ii
+Database Management System is a software system used to create, read,
+update, delete, retrieve and store data.
+
+No:1;iii
+SQL is a programming language used to process and store data in a relational database.
+
+No:1;iv
+A foregin key is a column in a table that provides a link between data in two tables.
+
+No:1;v
+A primary key is a value that uniquely identifies a row in table.
+
+No.2
+Merits of using a database
+   Databases minimizes data reduncy since all tables are filled with only related information.
+   Databases improves data security esppecially since a password is required for a database to open.
+   Databases help to minimise errors since there is a provision to update data.
+   Databases make it easy to access data since it is well organised and structured in a table
+   Databases provide low costs of data entry and storage.
+
+No.3
+Examples of Relational Database Management Systems
+   PostgreSQL, used as a communication both for frontend and backend to store large data 
+   MySQL, is mainly used in the backend to manage data in web applications.
+   Microsoft, stores data for businesses and enterprises.
+   MongoDB, used mainly in cloud computing.
+   Oracle, mainly used in the backend to store and retrieve data
+
+No.4
+Types of relationships in a database
+One-to-One relationship
+  This is when each record in a table is linked to only one record in another table.
+
+One-to-Many relationship 
+  This is when each record in a table is linked to many records in another table.
+
+Many-to-Many relationship.
+  This is when many records in a table relates to many records in another table.
+
+Many-to-One relationship. 
+  This is when many records in a table relates with only one record in the other table.
